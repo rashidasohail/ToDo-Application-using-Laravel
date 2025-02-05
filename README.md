@@ -6,8 +6,12 @@ This is a simple To-Do application built with Laravel. It allows users to create
 
 Features
 
-Add new to-do tasks with title and description
-View a list of all tasks
-Edit and update tasks
-Delete tasks
-Validation for required fields
+1.Add new to-do tasks with title and description
+
+2.View a list of all tasks
+
+3.Edit and update tasks
+
+4.Delete tasks
+
+5.Validation for required fields
